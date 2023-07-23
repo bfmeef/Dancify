@@ -1,7 +1,7 @@
 # 🕺 Dancify
 
 ### 춤을 배우고 싶은 모두를 위한 AI 안무 연습 서비스
-![포스터_최종](https://github.com/AIVLE-School-Third-Big-Project/dancify/assets/124374862/070c9340-09a1-4089-bed5-3ec692ead3dd)
+![포스터](https://github.com/bfmeef/Dancify/assets/24477729/45bdb5b9-e5ae-40c9-816a-a19835f993b2)
 
 ## 목차
 1. [프로젝트 소개](#1-프로젝트-소개)
@@ -46,50 +46,53 @@
   - 실전모드: 전구간을 한 번에 진행합니다.
 - AI를 통해 실시간 점수와 구간별 점수를 제공받을 수 있습니다.
 - 음성 조작을 통해 보다 편리한 사용자 경험을 제공합니다.
+<img width="2044" alt="댄서게시판1" src="https://github.com/bfmeef/Dancify/assets/24477729/6321251e-4715-4fd9-af39-fb5bf18f3986">
+<img width="2044" alt="댄서게시판2" src="https://github.com/bfmeef/Dancify/assets/24477729/0759762f-0353-4d16-bd04-66fd1471c290">
+<img width="2044" alt="댄서게시판3" src="https://github.com/bfmeef/Dancify/assets/24477729/00a444a7-782f-4d14-ba4e-8492d8a260d4">
+<img width="2044" alt="댄서게시판4" src="https://github.com/bfmeef/Dancify/assets/24477729/1d6a9268-207e-4eaa-9651-dc87c9e8174b">
 
-<img width="2044" alt="댄서게시판1" src="https://github.com/AIVLE-School-Third-Big-Project/dancify/assets/124374862/628803df-67ca-40e8-b293-a7f5ebecadff">
-<img width="2044" alt="댄서 게시판2" src="https://github.com/AIVLE-School-Third-Big-Project/dancify/assets/124374862/ce140a06-47bc-4c87-9f46-ef7ae8f1dbc9">
-<img width="2044" alt="댄서게시판3" src="https://github.com/AIVLE-School-Third-Big-Project/dancify/assets/124374862/a0c186a1-00c0-4815-bdf3-45ca3415eefa">
-<img width="2044" alt="댄서게시판4" src="https://github.com/AIVLE-School-Third-Big-Project/dancify/assets/124374862/42bccfe2-0ba8-4000-b3b1-08a90dd4c6bb">
+
 
 ### **2.2 자랑 게시판**
 
 - 자랑 게시판을 통해 자신이 춘 춤 영상을 공유할 수 있습니다.
+<img width="2044" alt="자랑게시판1" src="https://github.com/bfmeef/Dancify/assets/24477729/30d9bac9-ed8c-4639-ade0-94a91c399f5e">
+<img width="2044" alt="자랑게시판2" src="https://github.com/bfmeef/Dancify/assets/24477729/2edea51a-8ccd-4358-a028-2dc5366dd5fd">
 
-<img width="2044" alt="자랑게시판1" src="https://github.com/AIVLE-School-Third-Big-Project/dancify/assets/124374862/2d63b539-7ba9-4a75-8ab0-cbe9cf032510">
-<img width="2044" alt="자랑게시판2" src="https://github.com/AIVLE-School-Third-Big-Project/dancify/assets/124374862/72bdc06f-3d37-4754-95c0-63e1430ebf61">
 
 
 ### **2.3 자유 게시판**
 
 - 자유 게시판을 통해 사람들과 소통할 수 있습니다.
+<img width="2044" alt="자유게시판1" src="https://github.com/bfmeef/Dancify/assets/24477729/568d1c04-6220-453f-b04d-ca5920862ce5">
+<img width="2044" alt="자유게시판2" src="https://github.com/bfmeef/Dancify/assets/24477729/96a8e689-f0f2-42a5-8837-afd1dc2ab429">
 
-<img width="2044" alt="자유게시판1" src="https://github.com/AIVLE-School-Third-Big-Project/dancify/assets/124374862/79c8a62e-e195-4efc-838d-672d6fe3813b">
-<img width="2044" alt="자유게시판2" src="https://github.com/AIVLE-School-Third-Big-Project/dancify/assets/124374862/feb06802-c04c-4f0d-b625-b1b201147bd7">
 
 
 ### **2.4 피드백 동영상**
 
 - 자신이 춘 춤 영상을 관리하고 댄서에게 피드백을 요청할 수 있습니다.
 - 신체 부위별 AI 피드백을 받을 수 있습니다.
+<img width="2044" alt="피드백게시판1" src="https://github.com/bfmeef/Dancify/assets/24477729/42dedbe2-f140-44cc-a8f2-70750f638442">
 
-<img width="2044" alt="피드백게시판1" src="https://github.com/AIVLE-School-Third-Big-Project/dancify/assets/124374862/77f7416d-1ee7-4074-bfa9-7b02c37fc865">
+
 
 <br>
 
 ## **3. 프로젝트 아키텍처**
 
 ### Infrastructure
-![인프라](https://github.com/AIVLE-School-Third-Big-Project/dancify/assets/124374862/1ad1ec13-5500-43fd-b791-edd9c838adba)
+![인프라](https://github.com/bfmeef/Dancify/assets/24477729/08f0cf72-d16f-4204-82f9-04a06e4e351b)
+
 
 ### ERD
-![ERD](https://github.com/AIVLE-School-Third-Big-Project/dancify/assets/124374862/ab4db85e-9287-44f5-852c-1b9327d72e89)
+![Dancify ERD](https://github.com/bfmeef/Dancify/assets/24477729/904080ca-f838-4b8c-b9f4-5a7730c027b2)
+
 
 <br>
 
 ## **4. 데이터셋**
-
-<img width="869" alt="데이터셋" src="https://github.com/AIVLE-School-Third-Big-Project/dancify/assets/124374862/744a3d41-4574-40a0-8ecd-5a5eee11827d">
+<img width="869" alt="데이터셋" src="https://github.com/bfmeef/Dancify/assets/24477729/89d95dde-0301-4e82-89f9-bcf734b65e16">
 
 [데이터셋 페이지로 이동 🚀](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=52)
 
