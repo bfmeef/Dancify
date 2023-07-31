@@ -86,7 +86,8 @@
 
 
 ### ERD
-![Dancify ERD](https://github.com/bfmeef/Dancify/assets/24477729/904080ca-f838-4b8c-b9f4-5a7730c027b2)
+![Dancify ERD](https://github.com/bfmeef/Dancify/assets/24477729/de5a72d6-2398-4978-877e-d5c3a62e6e6f)
+
 
 
 <br>
