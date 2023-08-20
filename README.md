@@ -69,11 +69,15 @@
 
 
 
-### **2.4 피드백 동영상**
+### **2.4 피드백 페이지**
 
 - 자신이 춘 춤 영상을 관리하고 댄서에게 피드백을 요청할 수 있습니다.
 - 신체 부위별 AI 피드백을 받을 수 있습니다.
 <img width="2044" alt="피드백게시판1" src="https://github.com/bfmeef/Dancify/assets/24477729/42dedbe2-f140-44cc-a8f2-70750f638442">
+
+<img width="2364" alt="피드백페이지1" src="https://github.com/bfmeef/Dancify/assets/24477729/8aa74a91-0703-403e-a253-3e25720222c2">
+
+
 
 
 
